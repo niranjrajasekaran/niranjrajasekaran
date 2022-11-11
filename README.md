@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python, Djagno, FastAPI projects<br>🌱 I’m currently learning graphql, web3 <br>💬 Ask me about tech solutions
+🔭 I’m currently working on Python, Django, FastAPI projects<br>🌱 I’m currently learning graphql, web3 <br>💬 Ask me about tech solutions
 
 
 ## 🌐 Socials:
